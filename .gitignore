@@ -1,0 +1,10 @@
+# macOS / 编辑器
+.DS_Store
+*.swp
+
+# 本地文档不发布（plan / test / baton 含本机路径与门禁内部细节）
+docs/
+
+# Python 缓存（validate-skills.py 运行时可能产生）
+__pycache__/
+*.pyc
